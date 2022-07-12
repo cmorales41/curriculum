@@ -17,7 +17,7 @@ body {
 .item1{
 	padding: 3px; 
 	width: 25%;
-	height: 910px;
+	min-height:860px;
 	background-color: var(--negro);
 	
 }
@@ -33,7 +33,7 @@ h2{
 }
 
 .sub1{
-	height: 200px;
+	height: 180px;
 	margin: 3px;
 	padding: 10px;
 	background-image: url(img/a.jpg);
@@ -45,7 +45,7 @@ h2{
 
 
 .sub2{
-	height: 900px;
+	height: 100%;
 	color: white;
 	text-align: center;
 	padding: 12px;
@@ -56,7 +56,7 @@ h2{
 	
 	margin-left: 10px;
 	width: 75%;
-	height: 900px;
+	height: 100%;
 	border-style: solid;
 	border-radius: 3px;
 	border-color: var(--azul);
@@ -86,13 +86,14 @@ h2{
 }
 .item1{
    width: 98%;
+   height: 100%;
 
 }
 
 .item2{
 	width: 95%;
 	margin: 0;
-	height: 1150px;
+	height: 100%;
 	margin-left: 2px;
 	margin-top: 2px;
 
