@@ -92,8 +92,13 @@ h2{
 .item2{
 	width: 95%;
 	margin: 0;
-	height: 1100px;
+	height: 1150px;
+	margin-left: 2px;
+	margin-top: 2px;
 
 }
+.item3{
 
+	margin-top: 25px;
+}
 }
