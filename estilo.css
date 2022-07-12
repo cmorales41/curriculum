@@ -17,7 +17,7 @@ body {
 .item1{
 	padding: 3px; 
 	width: 25%;
-	min-height:860px;
+	min-height:750px;
 	background-color: var(--negro);
 	
 }
